@@ -1,0 +1,12 @@
+PODS:
+  - KTCenterFlowLayout (1.3.1)
+
+DEPENDENCIES:
+  - KTCenterFlowLayout
+
+SPEC CHECKSUMS:
+  KTCenterFlowLayout: 6e02b50ab2bd865025ae82fe266ed13b6d9eaf97
+
+PODFILE CHECKSUM: d6cfa762799c522f5fd0f0e4cb0efc308be2f210
+
+COCOAPODS: 1.2.0.beta.3
